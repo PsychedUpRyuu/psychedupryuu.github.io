@@ -1,11 +1,14 @@
-# psychedup
-# This is a Main Title (H1)
-## This is a Psychology Resource Subheading (H2)
+# PsychingUpPsych 
+# A psych-related resource hub for students, teachers, and parents
+## About Us
 
-This is normal text. Here is a link to a [Child Policy PDF](https://example.com).
+Welcome to our website! Here is a link to a [Child Policy PDF](https://example.com).
 
-* This creates a bullet point
-* This creates another bullet point
+* Parent Education Programs
+* Child Dev Policies
+* Research and Writing Hub
+* Coding Advice
+* Grad School Testimony Hub
 
 > "This is how a professor's testimony blockquote will look on the site."
 > — Dr. Jane Doe, Developmental Psych
